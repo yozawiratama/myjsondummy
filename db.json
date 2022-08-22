@@ -1,0 +1,33 @@
+{
+  "apiVersion": "1.0",
+  "success": true,
+  "data": {
+    "Tanggal Pelaksanaan Asesmen (ddmmyyyy)": "19072022",
+    "Nomor Pekerja": "80010018",
+    "Nama Pekerja": "Febri Jayanti",
+    "Kode Jenis Assessment": "1",
+    "Jenis Assessment": "SLAS Global",
+    "Global Integrity (3)": null,
+    "Building Strategic Relationship (4)": null,
+    "Global Business Savvy (5)": null,
+    "GlobalDriving Execution (6)": null,
+    "Customer Orientation (7)": null,
+    "Strategic Thinking (8)": null,
+    "Global Visionary Leadership  (9)": null,
+    "Global Change Leadership (10)": null,
+    "Job Motivation (11)": null,
+    "Global Empowering (12)": null,
+    "Managing Diversity (13)": null,
+    "Intercultural Empathy (14)": null,
+    "Nilai Akhir": "6.50",
+    "Company Code Requestor": "101010",
+    "Company Requestor": "6.50",
+    "Ket": ""
+  },
+  "dataList": null,
+  "message": null,
+  "messageException": null,
+  "stackTrace": null,
+  "more": {},
+  "dropdown": null
+}
