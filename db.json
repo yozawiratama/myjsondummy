@@ -1,6 +1,7 @@
 {
   "data": [
     {
+      "id": 1,
       "name": "Teh Sejuk",
       "price": "10000",
       "discounts": [
@@ -22,6 +23,7 @@
       ]
     },
     {
+      "id": 2,
       "name": "Kopi Enak",
       "price": "10000",
       "discounts": [
@@ -43,6 +45,7 @@
       ]
     },
     {
+      "id": 3,
       "name": "Teh Mahal",
       "price": "12500",
       "discounts": [
@@ -69,6 +72,7 @@
       ]
     },
     {
+      "id": 4,
       "name": "Kopi Arabica Super",
       "price": "150000",
       "discounts": [
