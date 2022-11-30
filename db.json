@@ -1,6 +1,5 @@
 {
-  "success": true,
-  "data": [
+  "products": [
     {
       "name": "Teh Sejuk",
       "price": "10000",
