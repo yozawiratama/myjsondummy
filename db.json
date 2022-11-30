@@ -1,0 +1,104 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": "Teh Sejuk",
+      "price": "10000",
+      "discounts": [
+        {
+          "amount": 10,
+          "type": "NOMINAL",
+          "value": 10000
+        },
+        {
+          "amount": 15,
+          "type": "PERCENT",
+          "value": 10
+        },
+        {
+          "amount": 25,
+          "type": "PERCENT",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "name": "Kopi Enak",
+      "price": "10000",
+      "discounts": [
+        {
+          "amount": 10,
+          "type": "NOMINAL",
+          "value": 10000
+        },
+        {
+          "amount": 15,
+          "type": "PERCENT",
+          "value": 10
+        },
+        {
+          "amount": 25,
+          "type": "PERCENT",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "name": "Teh Mahal",
+      "price": "12500",
+      "discounts": [
+        {
+          "amount": 5,
+          "type": "NOMINAL",
+          "value": 10000
+        },
+        {
+          "amount": 10,
+          "type": "NOMINAL",
+          "value": 15000
+        },
+        {
+          "amount": 20,
+          "type": "PERCENT",
+          "value": 10
+        },
+        {
+          "amount": 25,
+          "type": "PERCENT",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "name": "Kopi Arabica Super",
+      "price": "150000",
+      "discounts": [
+        {
+          "amount": 2,
+          "type": "NOMINAL",
+          "value": 10000
+        },
+        {
+          "amount": 3,
+          "type": "NOMINAL",
+          "value": 15000
+        },
+        {
+          "amount": 5,
+          "type": "PERCENT",
+          "value": 5
+        },
+        {
+          "amount": 10,
+          "type": "PERCENT",
+          "value": 10
+        },
+        {
+          "amount": 15,
+          "type": "NOMINAL",
+          "value": 300000
+        }
+      ]
+    }
+  ]
+}
